@@ -143,3 +143,4 @@ ANTHROPIC_API_KEY=sk-ant-xxxxxxxxxxxxxxxx
 - **IA** : Anthropic Claude API (texte + vision)
 - **Base de données** : SQLite
 - **Auth** : JWT (access token 24h, refresh 7 jours)
+# nova-abeche
